@@ -1,7 +1,8 @@
 repo_name: xavierloeraflores/Inventory-Management
 report_id: b79ba7cdb278a1e426fcc116307ac7c1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T13:02:48+00:00'
+timestamp: '2024-01-05T08:38:37+00:00'
 requested_by: xavierloeraflores
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/xavierloeraflores/Inventory-Management
   detection_source: Repo Metadata
